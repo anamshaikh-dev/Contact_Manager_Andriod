@@ -1,0 +1,36 @@
+# Contact Manager Android App
+
+## Description
+A simple Android app to manage contacts.  
+Users can add, view, edit, delete, and search contacts easily.  
+This project is built in *Android Studio* using *Java* and demonstrates basic Android development concepts.
+
+---
+
+## Features
+- Add new contacts with *Name, Phone, and Email*
+- View a list of all contacts
+- Edit existing contacts
+- Delete contacts with confirmation
+- Search contacts by name
+
+---
+
+## Screenshots
+Add your screenshots here to make your GitHub repo visually appealing.
+
+Example:
+
+![Main Screen](res/screenshots/![main screen.jpeg](screenshots/main%20screen.jpeg))  
+![Add/Edit Contact](res/screenshots/![Add or Edit.jpeg](screenshots/Add%20or%20Edit.jpeg))  
+![Delete Contact](res/screenshots/![delete contact.jpeg](screenshots/delete%20contact.jpeg))
+![Search Contact](res/screenshots/![![search contact.jpeg](screenshots/search%20contact.jpeg))
+
+
+---
+
+## How to Run
+1. Clone the repository:
+
+```bash
+git clone https://github.com/anamshaikh-dev/Contact_Manager_Android.git
