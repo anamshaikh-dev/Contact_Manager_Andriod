@@ -17,9 +17,7 @@ This project is built in *Android Studio* using *Java* and demonstrates basic An
 ---
 
 ## Screenshots
-Add your screenshots here to make your GitHub repo visually appealing.
 
-Example:
 
 ![Main Screen](/screenshots/![main screen.jpeg])  
 ![Add/Edit Contact](screenshots/![Add or Edit.jpeg])  
