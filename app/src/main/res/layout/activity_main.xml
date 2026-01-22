@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#F5F7FA"
+    android:padding="16dp">
+
+    <!-- App Title -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Contact Manager"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="#1F2937"
+        android:gravity="center"
+        android:paddingBottom="12dp"/>
+
+    <!-- Search Box -->
+    <EditText
+        android:id="@+id/etName"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="Search Contact"
+        android:textColor="#111827"
+        android:textColorHint="#9CA3AF"
+        android:textSize="16sp"
+        android:background="@drawable/bg_edittext"
+        android:padding="12dp"/>
+
+    <!-- Add Button -->
+    <Button
+        android:id="@+id/btnAddContact"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:text="Add New Contact"
+        android:layout_marginTop="12dp"
+        android:backgroundTint="#4F46E5"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"/>
+
+    <!-- Contact List -->
+    <ListView
+        android:id="@+id/listViewContacts"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="12dp"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="8dp"/>
+
+</LinearLayout>
