@@ -21,10 +21,10 @@ Add your screenshots here to make your GitHub repo visually appealing.
 
 Example:
 
-![Main Screen](res/screenshots/![main screen.jpeg](screenshots/main%20screen.jpeg))  
-![Add/Edit Contact](res/screenshots/![Add or Edit.jpeg](screenshots/Add%20or%20Edit.jpeg))  
-![Delete Contact](res/screenshots/![delete contact.jpeg](screenshots/delete%20contact.jpeg))
-![Search Contact](res/screenshots/![![search contact.jpeg](screenshots/search%20contact.jpeg))
+![Main Screen](/screenshots/![main screen.jpeg])  
+![Add/Edit Contact](screenshots/![Add or Edit.jpeg])  
+![Delete Contact](screenshots/![delete contact.jpeg])
+![Search Contact](screenshots/![![search contact.jpeg])
 
 
 ---
